@@ -4,8 +4,8 @@
 {
 "name": "1.7.10 Forge Package", 
 "title": "1.7 Forge", 
-"version": "MODPACKVERSION", 
-"location": "https://www.lolnet.co.nz/modpack/Forge17.json", 
+"version": "0.0.1", 
+"location": "https://www.lolnet.co.nz/modpack/JamPackedTwoEntry.json", 
 "priority": 1
 }
 ]
