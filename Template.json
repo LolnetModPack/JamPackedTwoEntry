@@ -2,9 +2,9 @@
 "minimumVersion": 1, 
 "packages": [
 {
-"name": "1.7.10 Forge Package", 
-"title": "1.7 Forge", 
-"version": "0.0.1", 
+"name": "JamPackedTwo Entry", 
+"title": "JamPacked Two Entry", 
+"version": "MODPACKVERSION", 
 "location": "https://www.lolnet.co.nz/modpack/JamPackedTwoEntry.json", 
 "priority": 1
 }
